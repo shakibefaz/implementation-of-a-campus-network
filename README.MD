@@ -10,8 +10,9 @@ Multiple routers are interconnected using point-to-point links, and OSPF is used
 
 ---
 
-## 🖥️ Network Topology
+## Network Topology
 
+![Network Topology](images/network-topology.png)
 The network consists of:
 
 - Multiple Cisco Routers
